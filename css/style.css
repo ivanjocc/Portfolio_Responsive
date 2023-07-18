@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding-top: 70px;
+}
+
+i {
+	font-size: 2rem;
+}
+
+footer {
+	height: 100px;
+}
+
+html:hover {
+	cursor: url(../img/cursor.png), auto;
+}
+
+button:hover {
+	cursor: url(../img/cursor.png), auto;
+}
+
+a:hover {
+	cursor: url(../img/cursor.png), auto;
+}
+
+html:active {
+	cursor: url(../img/cursor-2.png), auto;
+}
+
+button:active {
+	cursor: url(../img/cursor-2.png), auto;
+}
+
+a:active {
+	cursor: url(../img/cursor-2.png), auto;
+}
